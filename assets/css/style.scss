@@ -8,6 +8,6 @@ body, .markdown-body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Corbel', sans-serif; /* Specify the font name and fallback */
-  font-weight: bold;
+  font-family: 'Corbel', sans-serif !important; /* Apply Corbel font to headers */
+  font-weight: bold !important; /* Make headers bold */
 }
