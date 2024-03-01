@@ -1,8 +1,8 @@
+sass:
+  sass_dir: assets/css
+  
 title: Ro-Space Studios
 description: Scripting, Building, UI Interface Design, GFX, Animations
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
-
-sass:
-  sass_dir: assets/css
