@@ -1,8 +1,12 @@
 ---
 ---
 
+---
+---
+
 @import "{{ site.theme }}";
 
 body, .markdown-body {
-  font-family: 'Corbel Bold', sans-serif; /* Specify the font name and fallback */
+  font-family: 'Corbel', sans-serif; /* Specify the font name and fallback */
+  font-weight: bold; /* Use the bold font weight */
 }
