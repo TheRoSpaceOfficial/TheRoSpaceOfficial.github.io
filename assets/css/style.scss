@@ -17,14 +17,14 @@ body {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: 'Corbel Bold', sans-serif;;
+  font-family: 'Corbel', sans-serif;;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
   background-color: #2e7bcf; /* Fallback background color */
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Corbel Bold', sans-serif; /* Apply Corbel font to headers */
+  font-family: 'Corbel', sans-serif; /* Apply Corbel font to headers */
   font-weight: bold; /* Make headers bold */
   color: #fff; /* Set text color to white */
 }
