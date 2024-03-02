@@ -57,6 +57,8 @@ aside a.button {
   background-image: url(../images/Logo.png);
   /* Ensure background image covers the container */
   background-size: cover;
-  /* Optional: add some space around the logo */
-  margin-right: 10px;
+   /* Manually position the logo */
+  position: absolute;
+  top: 10px; /* Adjust the top position */
+  left: 10px; /* Adjust the left position */
 }
