@@ -24,6 +24,25 @@ header {
   background-color: #2e7bcf; /* Fallback background color */
 }
 
+/* Logo */
+header::before {
+  content: ''; /* Add empty content */
+  position: absolute; /* Position absolutely within the header */
+  top: 50%; /* Align to vertically center */
+  left: 20px; /* Adjust the left position as needed */
+  transform: translateY(-50%); /* Adjust for vertical centering */
+  width: 50px; /* Set the width of the logo */
+  height: auto; /* Maintain aspect ratio */
+  background: url(../images/Logo.png) center center no-repeat; /* Set background image */
+}
+
+/* Header title/writing */
+header .title {
+  margin-left: 70px; /* Adjust margin to create space for the logo */
+  color: #ffffff; /* Set text color to white */
+  /* Add additional styles as needed */
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Corbel', sans-serif !important; /* Apply Corbel font to headers */
   font-weight: bold !important; /* Make headers bold */
@@ -47,12 +66,4 @@ aside a.button {
   margin-bottom: 20px;
   font-size: 21px;
   background: transparent url(../images/download-button.png) 0 0 no-repeat;
-}
-
-.site-title::before {
-    content: url(../images/Logo.png);
-    display: inline-block;
-    position: relative;
-    width: 49px;
-    top: 5px;
 }
