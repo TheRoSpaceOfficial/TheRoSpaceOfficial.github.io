@@ -13,3 +13,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold !important; /* Make headers bold */
   color: white; /* Set text color to white */
 }
+
+header {
+  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+}
