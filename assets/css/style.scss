@@ -51,14 +51,14 @@ aside a.button {
 
 .logo {
   /* Set the logo dimensions */
-  width: 400px;
-  height: 400px;
+  width: 200px;
+  height: 200px;
   /* Set the background image */
   background-image: url(../images/Logo.png);
   /* Ensure background image covers the container */
   background-size: cover;
    /* Manually position the logo */
   position: absolute;
-  top: 10px; /* Adjust the top position */
-  left: 10px; /* Adjust the left position */
+  top: 8px; /* Adjust the top position */
+  left: 5px; /* Adjust the left position */
 }
