@@ -34,6 +34,7 @@ header::before {
   width: 50px; /* Set the width of the logo */
   height: auto; /* Maintain aspect ratio */
   background: url(../images/Logo.png) center center no-repeat; /* Set background image */
+  z-index: 1; /* Ensure the logo appears on top */
 }
 
 /* Header title/writing */
