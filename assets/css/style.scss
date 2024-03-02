@@ -24,19 +24,6 @@ header {
   background-color: #2e7bcf; /* Fallback background color */
 }
 
-/* Logo */
-#main-content h1:before {
-  content: "/"; /* Add empty content */
-  position: absolute; /* Position absolutely within the header */
-  top: 50%; /* Align to vertically center */
-  left: 20px; /* Adjust the left position as needed */
-  transform: translateY(-50%); /* Adjust for vertical centering */
-  width: 50px; /* Set the width of the logo */
-  height: auto; /* Maintain aspect ratio */
-  background: url(../images/Logo.png) center center no-repeat; /* Set background image */
-  z-index: 1; /* Ensure the logo appears on top */
-}
-
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Corbel', sans-serif !important; /* Apply Corbel font to headers */
   font-weight: bold !important; /* Make headers bold */
