@@ -50,7 +50,7 @@ aside a.button {
 }
 
 .site-title::before {
-    content: url(../images/Logo.png) 0 0 no repeat;;
+    content: url(../images/Logo.png);
     display: inline-block;
     position: relative;
     width: 49px;
