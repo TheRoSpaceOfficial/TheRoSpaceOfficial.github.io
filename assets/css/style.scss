@@ -5,9 +5,15 @@
 
 body, .markdown-body {
   font-family: 'Corbel', sans-serif; /* Specify the font name and fallback */
+  color: white; /* Set text color to white */
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Corbel', sans-serif !important; /* Apply Corbel font to headers */
   font-weight: bold !important; /* Make headers bold */
+  color: white; /* Set text color to white */
+}
+
+.header {
+  background-color: darkblue; /* Set background color of the header to dark blue */
 }
