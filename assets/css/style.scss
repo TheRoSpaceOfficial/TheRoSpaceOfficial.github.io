@@ -16,7 +16,7 @@ header {
 body, .markdown-body {
   font-family: 'Corbel', sans-serif; /* Specify the font name and fallback */
   color: white; /* Set text color to white */
-  background-color: black; /* Set background color */
+  background-color: black; !important /* Set background color */
 }
 
 h1, h2, h3, h4, h5, h6 {
