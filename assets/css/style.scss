@@ -48,3 +48,15 @@ aside a.button {
   font-size: 21px;
   background: transparent url(../images/download-button.png) 0 0 no-repeat;
 }
+
+.logo {
+  /* Set the logo dimensions */
+  width: 50px;
+  height: 50px;
+  /* Set the background image */
+  background-image: url(../assets/images/Logo.png);
+  /* Ensure background image covers the container */
+  background-size: cover;
+  /* Optional: add some space around the logo */
+  margin-right: 10px;
+}
