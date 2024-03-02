@@ -25,7 +25,7 @@ header {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Corbel', sans-serif; /* Apply Corbel font to headers */
-  font-weight: bold; /* Make headers bold */
-  color: #fff; /* Set text color to white */
+  font-family: 'Corbel', sans-serif !important; /* Apply Corbel font to headers */
+  font-weight: bold !important; /* Make headers bold */
+  color: #ffffff !important; /* Set text color to white */
 }
