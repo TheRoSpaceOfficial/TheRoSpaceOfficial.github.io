@@ -13,3 +13,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold !important; /* Make headers bold */
   color: white; /* Set text color to white */
 }
+
+header {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  background: #2e7bcf; /* Set background color to dark blue */
+  border-bottom: solid 1px #275da1;
+}
