@@ -29,3 +29,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold !important; /* Make headers bold */
   color: #ffffff !important; /* Set text color to white */
 }
+
+aside#sidebar {
+  float: right;
+  width: 200px;
+  min-height: 504px;
+  padding-left: 20px;
+  font-size: 12px;
+  line-height: 1.3;
+  background: #000; /* Set background color to black */
+}
