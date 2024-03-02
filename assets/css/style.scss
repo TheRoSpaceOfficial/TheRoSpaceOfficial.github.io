@@ -25,8 +25,8 @@ header {
 }
 
 /* Logo */
-header::before {
-  content: ''; /* Add empty content */
+#main-content h1:before {
+  content: "/"; /* Add empty content */
   position: absolute; /* Position absolutely within the header */
   top: 50%; /* Align to vertically center */
   left: 20px; /* Adjust the left position as needed */
@@ -35,13 +35,6 @@ header::before {
   height: auto; /* Maintain aspect ratio */
   background: url(../images/Logo.png) center center no-repeat; /* Set background image */
   z-index: 1; /* Ensure the logo appears on top */
-}
-
-/* Header title/writing */
-header .title {
-  margin-left: 70px; /* Adjust margin to create space for the logo */
-  color: #ffffff; /* Set text color to white */
-  /* Add additional styles as needed */
 }
 
 h1, h2, h3, h4, h5, h6 {
