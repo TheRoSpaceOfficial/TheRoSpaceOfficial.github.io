@@ -48,3 +48,11 @@ aside a.button {
   font-size: 21px;
   background: transparent url(../images/download-button.png) 0 0 no-repeat;
 }
+
+.site-title::before {
+    content: url(../images/Logo.png) 0 0 no repeat;;
+    display: inline-block;
+    position: relative;
+    width: 49px;
+    top: 5px;
+}
