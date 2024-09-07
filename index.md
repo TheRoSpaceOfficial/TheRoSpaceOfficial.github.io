@@ -13,6 +13,11 @@ As a team, we are committed to pushing the boundaries of creativity and innovati
 ## Scripting 
 _The following are examples of things we have scripted._
 
+A simple fully fledged FPS game consisting of datastores, shop, level, round  and voting system. 
+![Voting](https://github.com/user-attachments/assets/b6acfde7-0432-4d94-8dd8-bc7d45b1d082)
+![Shop](https://github.com/user-attachments/assets/e0903ff4-b17f-4d4c-87ac-7e6d5f9ac3fd)
+
+
 A simple head bob that uses trigonometry to create an effect when the player is walking. 
 Our solution to the head bob is open sourced and can be found at [This devforum post](https://devforum.roblox.com/t/creating-steady-camera-head-bob/1510676/3)
 ![Head Bob](https://github.com/TheRoSpaceOfficial/TheRoSpaceOfficial.github.io/assets/161690494/339dca1e-1ae1-4330-9f4f-0f4b360be6be)
