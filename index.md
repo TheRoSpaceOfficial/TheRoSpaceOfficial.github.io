@@ -1,3 +1,6 @@
+# Our Testimonials
+Blankets (Roblox Veteran) - "overall you were both efficient, knowledgeable, and adapted well to the constantly changing scope of work."
+
 # About Us
 
 Welcome to our profile! We are pine_apple11112222 and Xx_FROSTBITExX, two passionate Roblox developers dedicated to creating immersive experiences for players. Together, we bring a unique blend of skills to the table, including scripting, user interface design, building, and Roblox GFX design.
