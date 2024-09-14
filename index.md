@@ -47,6 +47,8 @@ _The following are examples of our builds._
 
 [logo]: https://github.com/TheRoSpaceOfficial/TheRoSpaceOfficial.github.io/assets/161690494/f63469cd-252c-4b22-8c8f-392506804c64 "High Poly Menu"
 
+![Lighting](https://github.com/user-attachments/assets/15eafbeb-6194-48b6-ab98-d19cd33b336f)
+
 ![alt text][logo 2]
 
 [logo 2]: https://github.com/TheRoSpaceOfficial/TheRoSpaceOfficial.github.io/assets/161690494/ee717740-70c0-4a5e-8a2c-555d3db7fe42 "Low Poly Islands"
